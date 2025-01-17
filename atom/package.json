@@ -17,7 +17,7 @@
     "express-jwt": "^5.3.3",
     "jsx": "^0.9.89",
     "mongodb": "^3.5.7",
-    "mongoose": "^5.9.12",
+    "mongoose": "^8.9.5",
     "node": "^14.2.0",
     "node-redux": "^1.0.4",
     "nodejs": "0.0.0",
